@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Checkout: 
+Checkout some of the sites I'm involved with: 
 - [kerryhatcher.com](https://www.kerryhatcher.com/)
+- [dixonchurch.org](https://dixonchurch.org/)
 
 <!--
 **kerryhatcher/kerryhatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
