@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-more to come
+Checkout: 
+- [kerryhatcher.com](https://www.kerryhatcher.com/)
 
 <!--
 **kerryhatcher/kerryhatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
